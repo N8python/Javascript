@@ -29,3 +29,4 @@ let x = 2 * "erer"; //NaN, when a mathmatical operation fails completely.
 let x = 10**10**100 //A googleplex is to big for JS, becomes Infinity
 //More on arrays.
 arr.length //returns 3
+Math.random() //Oooh - Random Number
